@@ -1,4 +1,4 @@
-package us.mizuta.maventutorial;
+package maventutorial;
 
 public class Main {
 

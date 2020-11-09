@@ -4,7 +4,12 @@
 
     <groupId>us.mizuta</groupId>
     <artifactId>maven-tutorial</artifactId>
+    <packaging>pom</packaging>
     <version>1.5-SNAPSHOT</version>
+
+    <modules>
+        <module>common</module>
+    </modules>
 
     <properties>
         <github.global.server>github</github.global.server>
