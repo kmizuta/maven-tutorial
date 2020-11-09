@@ -5,7 +5,7 @@
     <groupId>us.mizuta</groupId>
     <artifactId>maven-tutorial</artifactId>
     <packaging>pom</packaging>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
 
     <modules>
         <module>common</module>
@@ -18,7 +18,7 @@
     <scm>
         <developerConnection>scm:git:git@github.com:kmizuta/maven-tutorial.git</developerConnection>
         <url>https://github.com/kmizuta/maven-tutorial</url>
-        <tag>HEAD</tag>
+        <tag>maven-tutorial-1.6</tag>
     </scm>
 
     <distributionManagement>
