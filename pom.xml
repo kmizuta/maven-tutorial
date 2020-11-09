@@ -17,11 +17,21 @@
     </scm>
 
     <distributionManagement>
+        <!--
         <repository>
             <id>github</id>
             <name>GitHub KMIZUTA Apache Maven Package</name>
             <url>https://maven.pkg.github.com/kmizuta/maven-tutorial</url>
         </repository>
+        -->
+        <repository>
+            <id>faxarch-release</id>
+            <url>https://artifactory.oraclecorp.com/artifactory/faxarch-release-local</url>
+        </repository>
+        <snapshotRepository>
+            <id>faxarch-snapshots</id>
+            <url>https://artifactory.oraclecorp.com/artifactory/faxarch-snapshot-local</url>
+        </snapshotRepository>
     </distributionManagement>
 
     <build>
