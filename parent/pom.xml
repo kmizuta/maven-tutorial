@@ -5,7 +5,7 @@
     <groupId>us.mizuta</groupId>
     <artifactId>maven-tutorial-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.7-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <properties>
         <github.global.server>github</github.global.server>
@@ -14,7 +14,6 @@
     <scm>
         <developerConnection>scm:git:git@github.com:kmizuta/maven-tutorial.git</developerConnection>
         <url>https://github.com/kmizuta/maven-tutorial</url>
-        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>

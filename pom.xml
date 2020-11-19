@@ -5,9 +5,10 @@
     <parent>
         <groupId>us.mizuta</groupId>
         <artifactId>maven-tutorial-parent</artifactId>
-        <version>1.7-SNAPSHOT</version>
+        <version>0.0.1-SNAPSHOT</version>
         <relativePath>./parent/pom.xml</relativePath>
     </parent>
+
     <artifactId>maven-tutorial</artifactId>
     <packaging>pom</packaging>
 
