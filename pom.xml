@@ -5,7 +5,7 @@
     <groupId>us.mizuta</groupId>
     <artifactId>maven-tutorial</artifactId>
     <packaging>pom</packaging>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.7-SNAPSHOT</version>
 
     <modules>
         <module>common</module>
